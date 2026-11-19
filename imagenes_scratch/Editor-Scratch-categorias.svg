@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="660" viewBox="0 0 1200 660" role="img" aria-labelledby="title desc">
+  <title id="title">Resumen de categorías de bloques de Scratch</title>
+  <desc id="desc">Ocho tarjetas de colores explican las categorías Movimiento, Apariencia, Sonido, Eventos, Control, Sensores, Operadores y Variables.</desc>
+  <rect width="1200" height="660" rx="24" fill="#f3f6fb"/>
+  <text x="38" y="56" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#18243a">Ocho familias de bloques</text>
+  <text x="40" y="87" font-family="Arial,sans-serif" font-size="18" fill="#53647b">El color ayuda a reconocer qué tipo de instrucción estás usando.</text>
+  <g font-family="Arial,sans-serif">
+    <rect x="35" y="116" width="550" height="112" rx="16" fill="#ffffff" stroke="#ccd5e2" stroke-width="2"/>
+    <rect x="35" y="116" width="16" height="112" rx="8" fill="#4c97ff"/>
+    <text x="72" y="153" font-size="23" font-weight="700" fill="#26354a">Movimiento</text>
+    <text x="72" y="184" font-size="18" fill="#53647b">Mueve o gira el objeto, y cambia su posición.</text>
+    <rect x="350" y="132" width="202" height="42" rx="12" fill="#4c97ff"/>
+    <text x="367" y="159" font-size="17" fill="#ffffff">mover 10 pasos</text>
+    <rect x="615" y="116" width="550" height="112" rx="16" fill="#ffffff" stroke="#ccd5e2" stroke-width="2"/>
+    <rect x="615" y="116" width="16" height="112" rx="8" fill="#9966ff"/>
+    <text x="652" y="153" font-size="23" font-weight="700" fill="#26354a">Apariencia</text>
+    <text x="652" y="184" font-size="18" fill="#53647b">Cambia el aspecto, el tamaño o lo que se ve.</text>
+    <rect x="930" y="132" width="204" height="42" rx="12" fill="#9966ff"/>
+    <text x="944" y="159" font-size="17" fill="#ffffff">siguiente disfraz</text>
+    <rect x="35" y="246" width="550" height="112" rx="16" fill="#ffffff" stroke="#ccd5e2" stroke-width="2"/>
+    <rect x="35" y="246" width="16" height="112" rx="8" fill="#cf63cf"/>
+    <text x="72" y="283" font-size="23" font-weight="700" fill="#26354a">Sonido</text>
+    <text x="72" y="314" font-size="18" fill="#53647b">Reproduce y controla los sonidos.</text>
+    <rect x="350" y="262" width="202" height="42" rx="12" fill="#cf63cf"/>
+    <text x="365" y="289" font-size="17" fill="#ffffff">iniciar sonido</text>
+    <rect x="615" y="246" width="550" height="112" rx="16" fill="#ffffff" stroke="#ccd5e2" stroke-width="2"/>
+    <rect x="615" y="246" width="16" height="112" rx="8" fill="#ffbf00"/>
+    <text x="652" y="283" font-size="23" font-weight="700" fill="#26354a">Eventos</text>
+    <text x="652" y="314" font-size="18" fill="#53647b">Inicia programas cuando ocurre algo.</text>
+    <rect x="930" y="262" width="204" height="42" rx="12" fill="#ffbf00"/>
+    <text x="944" y="289" font-size="16" fill="#26354a">al pulsar bandera</text>
+    <rect x="35" y="376" width="550" height="112" rx="16" fill="#ffffff" stroke="#ccd5e2" stroke-width="2"/>
+    <rect x="35" y="376" width="16" height="112" rx="8" fill="#ffab19"/>
+    <text x="72" y="413" font-size="23" font-weight="700" fill="#26354a">Control</text>
+    <text x="72" y="444" font-size="18" fill="#53647b">Espera, repite instrucciones y toma decisiones.</text>
+    <rect x="350" y="392" width="202" height="42" rx="12" fill="#ffab19"/>
+    <text x="365" y="419" font-size="17" fill="#26354a">repetir 10</text>
+    <rect x="615" y="376" width="550" height="112" rx="16" fill="#ffffff" stroke="#ccd5e2" stroke-width="2"/>
+    <rect x="615" y="376" width="16" height="112" rx="8" fill="#4cbfe6"/>
+    <text x="652" y="413" font-size="23" font-weight="700" fill="#26354a">Sensores</text>
+    <text x="652" y="444" font-size="18" fill="#53647b">Comprueba contactos, teclas y respuestas.</text>
+    <rect x="930" y="392" width="204" height="42" rx="12" fill="#4cbfe6"/>
+    <text x="944" y="419" font-size="16" fill="#ffffff">¿tocando objeto?</text>
+    <rect x="35" y="506" width="550" height="112" rx="16" fill="#ffffff" stroke="#ccd5e2" stroke-width="2"/>
+    <rect x="35" y="506" width="16" height="112" rx="8" fill="#59c059"/>
+    <text x="72" y="543" font-size="23" font-weight="700" fill="#26354a">Operadores</text>
+    <text x="72" y="574" font-size="18" fill="#53647b">Calcula, compara y combina condiciones.</text>
+    <rect x="350" y="522" width="202" height="42" rx="12" fill="#59c059"/>
+    <text x="365" y="549" font-size="18" fill="#ffffff">[ ] + [ ]</text>
+    <rect x="615" y="506" width="550" height="112" rx="16" fill="#ffffff" stroke="#ccd5e2" stroke-width="2"/>
+    <rect x="615" y="506" width="16" height="112" rx="8" fill="#ff8c1a"/>
+    <text x="652" y="543" font-size="23" font-weight="700" fill="#26354a">Variables</text>
+    <text x="652" y="574" font-size="18" fill="#53647b">Guarda datos, como puntos, vidas o tiempo.</text>
+    <rect x="930" y="522" width="204" height="42" rx="12" fill="#ff8c1a"/>
+    <text x="944" y="549" font-size="17" fill="#ffffff">cambiar Puntos</text>
+  </g>
+</svg>

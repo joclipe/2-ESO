@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Ejemplos de patrones dibujados con repetir en Scratch</title>
+  <desc id="desc">Nueve dibujos esquemáticos: escalera, zigzag, línea discontinua, cuadrado, zigzag de ángulos rectos, cruz suiza, asterisco de seis brazos, asterisco de veinte brazos y estrella de cinco puntas.</desc>
+  <rect width="1200" height="760" rx="24" fill="#f3f6fb"/>
+  <text x="35" y="52" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#18243a">Actividad 3 · Dibujos con «repetir»</text>
+  <text x="38" y="82" font-family="Arial,sans-serif" font-size="17" fill="#53647b">Esquemas de referencia: cada forma se obtiene repitiendo unos pocos bloques.</text>
+  <g font-family="Arial,sans-serif" fill="#26354a" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="30" y="105" width="365" height="185" rx="15" fill="#fff" stroke="#ccd5e2" stroke-width="2"/>
+    <text x="50" y="137" font-size="20" font-weight="700" stroke="none">Escalera</text>
+    <path d="M75 250 H130 V220 H185 V190 H240 V160 H295 V140" fill="none" stroke="#4c97ff" stroke-width="6"/>
+    <rect x="417" y="105" width="365" height="185" rx="15" fill="#fff" stroke="#ccd5e2" stroke-width="2"/>
+    <text x="437" y="137" font-size="20" font-weight="700" stroke="none">Zigzag</text>
+    <path d="M462 220 L492 170 L522 220 L552 170 L582 220 L612 170 L642 220 L672 170 L702 220 L732 170" fill="none" stroke="#9966ff" stroke-width="6"/>
+    <rect x="804" y="105" width="365" height="185" rx="15" fill="#fff" stroke="#ccd5e2" stroke-width="2"/>
+    <text x="824" y="137" font-size="20" font-weight="700" stroke="none">Línea discontinua</text>
+    <path d="M850 205 H890 M918 205 H958 M986 205 H1026 M1054 205 H1094" fill="none" stroke="#cf63cf" stroke-width="7"/>
+    <rect x="30" y="310" width="365" height="185" rx="15" fill="#fff" stroke="#ccd5e2" stroke-width="2"/>
+    <text x="50" y="342" font-size="20" font-weight="700" stroke="none">Cuadrado</text>
+    <path d="M150 390 H260 V460 H150 Z" fill="none" stroke="#59c059" stroke-width="6"/>
+    <rect x="417" y="310" width="365" height="185" rx="15" fill="#fff" stroke="#ccd5e2" stroke-width="2"/>
+    <text x="437" y="342" font-size="20" font-weight="700" stroke="none">Zigzag cuadrado</text>
+    <path d="M465 435 H510 V480 H555 V435 H600 V480 H645 V435 H690 V480" fill="none" stroke="#ff8c1a" stroke-width="6"/>
+    <rect x="804" y="310" width="365" height="185" rx="15" fill="#fff" stroke="#ccd5e2" stroke-width="2"/>
+    <text x="824" y="342" font-size="20" font-weight="700" stroke="none">Cruz suiza</text>
+    <path d="M970 375 H1000 V405 H1030 V435 H1000 V465 H970 V435 H940 V405 H970 Z" fill="none" stroke="#4c97ff" stroke-width="5"/>
+    <rect x="30" y="515" width="365" height="205" rx="15" fill="#fff" stroke="#ccd5e2" stroke-width="2"/>
+    <text x="50" y="547" font-size="20" font-weight="700" stroke="none">Asterisco de 6 puntas</text>
+    <g transform="translate(210 630)" stroke="#9966ff" stroke-width="5">
+      <path d="M-65 0 H65 M-32.5 -56.3 L32.5 56.3 M-32.5 56.3 L32.5 -56.3"/>
+    </g>
+    <rect x="417" y="515" width="365" height="205" rx="15" fill="#fff" stroke="#ccd5e2" stroke-width="2"/>
+    <text x="437" y="547" font-size="20" font-weight="700" stroke="none">Asterisco de 20 puntas</text>
+    <g transform="translate(600 635)" stroke="#cf63cf" stroke-width="2.7">
+      <path d="M-68 0 H68 M-64.6 -21.1 L64.6 21.1 M-55.1 -40 L55.1 40 M-40 -55.1 L40 55.1 M-21.1 -64.6 L21.1 64.6 M-21.1 64.6 L21.1 -64.6 M-40 55.1 L40 -55.1 M-55.1 40 L55.1 -40 M-64.6 21.1 L64.6 -21.1 M0 -68 V68"/>
+    </g>
+    <rect x="804" y="515" width="365" height="205" rx="15" fill="#fff" stroke="#ccd5e2" stroke-width="2"/>
+    <text x="824" y="547" font-size="20" font-weight="700" stroke="none">Estrella de 5 puntas</text>
+    <path d="M986 570 L1005 620 L1058 620 L1015 651 L1031 700 L986 670 L941 700 L957 651 L914 620 L967 620 Z" fill="none" stroke="#ff8c1a" stroke-width="5"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="410" viewBox="0 0 900 410" role="img" aria-labelledby="title desc">
+  <title id="title">Resultado esperado de la actividad HI con el lápiz de Scratch</title>
+  <desc id="desc">Las letras H e I están formadas por líneas rectas dibujadas con lápiz en un escenario blanco.</desc>
+  <rect width="900" height="410" rx="22" fill="#f3f6fb"/>
+  <text x="35" y="48" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#18243a">Actividad 2 · Resultado esperado</text>
+  <rect x="35" y="70" width="830" height="285" rx="12" fill="#ffffff" stroke="#9eafc2" stroke-width="2"/>
+  <g fill="none" stroke="#4c97ff" stroke-width="11" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M300 125 V300 M300 212 H400 M400 125 V300"/>
+    <path d="M520 125 V300 M470 125 H570 M470 300 H570"/>
+  </g>
+  <text x="310" y="337" font-family="Arial,sans-serif" font-size="18" fill="#53647b">H</text>
+  <text x="520" y="337" font-family="Arial,sans-serif" font-size="18" fill="#53647b">I</text>
+  <text x="35" y="392" font-family="Arial,sans-serif" font-size="16" fill="#53647b">Cada letra se dibuja con varios trazos: sube el lápiz antes de desplazarte al siguiente.</text>
+</svg>

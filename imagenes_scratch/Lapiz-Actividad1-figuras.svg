@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="470" viewBox="0 0 1000 470" role="img" aria-labelledby="title desc">
+  <title id="title">Resultado esperado de la actividad 1 con el lápiz de Scratch</title>
+  <desc id="desc">En un escenario celeste aparecen, de izquierda a derecha, un cuadrado, una X, un triángulo equilátero y un triángulo rectángulo.</desc>
+  <rect width="1000" height="470" rx="22" fill="#f3f6fb"/>
+  <text x="35" y="46" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#18243a">Actividad 1 · Resultado esperado</text>
+  <rect x="35" y="68" width="930" height="330" rx="12" fill="#ffffff" stroke="#9eafc2" stroke-width="2"/>
+  <line x1="268" y1="68" x2="268" y2="398" stroke="#e0e6ee" stroke-width="2" stroke-dasharray="7 7"/>
+  <line x1="500" y1="68" x2="500" y2="398" stroke="#e0e6ee" stroke-width="2" stroke-dasharray="7 7"/>
+  <line x1="732" y1="68" x2="732" y2="398" stroke="#e0e6ee" stroke-width="2" stroke-dasharray="7 7"/>
+  <path d="M75 132 H135 V192 H75 Z" fill="none" stroke="#4c97ff" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M302 130 L372 200 M302 200 L372 130" fill="none" stroke="#9966ff" stroke-width="6" stroke-linecap="round"/>
+  <path d="M535 145 H615 L575 76 Z" fill="none" stroke="#59c059" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M770 145 H850 L770 85 Z" fill="none" stroke="#ff8c1a" stroke-width="6" stroke-linejoin="round"/>
+  <text x="84" y="255" font-family="Arial,sans-serif" font-size="21" font-weight="700" fill="#26354a">Cuadrado</text>
+  <text x="327" y="255" font-family="Arial,sans-serif" font-size="21" font-weight="700" fill="#26354a">X</text>
+  <text x="526" y="255" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#26354a">Triángulo</text>
+  <text x="523" y="281" font-family="Arial,sans-serif" font-size="19" fill="#26354a">equilátero</text>
+  <text x="756" y="255" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#26354a">Triángulo</text>
+  <text x="752" y="281" font-family="Arial,sans-serif" font-size="19" fill="#26354a">rectángulo</text>
+  <text x="35" y="438" font-family="Arial,sans-serif" font-size="16" fill="#53647b">Dibujo orientativo: las posiciones exactas y el tamaño pueden variar.</text>
+</svg>
